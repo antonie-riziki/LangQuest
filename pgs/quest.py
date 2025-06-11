@@ -32,7 +32,7 @@ with st.sidebar:
 
 
 with st.sidebar:
-    uploaded_files = st.file_uploader('Upload Document', accept_multiple_files=True)
+    uploaded_files = st.file_uploader('Upload Document', accept_multiple_files=True, type='pdf')
 
 if uploaded_files:
     for uploaded_file in uploaded_files:
