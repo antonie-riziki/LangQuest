@@ -3,7 +3,6 @@ import random
 import secrets
 import re
 import os
-import bcrypt
 import africastalking
 import streamlit as st 
 import google.generativeai as genai
