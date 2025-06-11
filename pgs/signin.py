@@ -97,7 +97,7 @@ def sign_in_form():
 
     submit_personal_details = st.button("🈯 Sign in", use_container_width=True)
     if submit_personal_details==True:
-        st.page_link("pgs/attendance.py", label="Redirecting...", icon="➡️")
+        st.page_link("pgs/quest.py", label="Redirecting...", icon="➡️")
 
 
 sign_in_form()
