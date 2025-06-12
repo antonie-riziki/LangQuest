@@ -80,7 +80,7 @@ with col1:
 			        print(phone_number)
 
 			        # Set your message
-			        message = f"Hi {first_name}, Welcome to MjengoHub! \nYoure now connected to Kenyas smart construction system. Get updates, manage tasks & stay alert.";
+			        message = f"Hi {first_name}, \n You are now part of a journey to rediscover your language, culture, and heritage. Start exploring today and connect deeper with your roots."
 
 			        # Set your shortCode or senderId
 			        sender = 20880
